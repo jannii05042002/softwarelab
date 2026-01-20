@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------------------------
+ID       Name       S1   S2   S3   S4   S5   Total  Percent  Grade  CGPA
+-------------------------------------------------------------------------------------------------
+uohyd101 Rahul      78   85   69   90   88   410    82.00    A     8.20
+uohyd102 Anita      45   60   70   80   90   345    69.00    B+    6.90
+uohyd103 Kiran      90   92   88   95   91   456    91.20    O     9.12
+uohyd104 Eshwar     78   57   64   82   59   340    68.00    B+    6.80
+uohyd105 Ankith     82   48   39   59   73   301    60.20    B     6.02
+uohyd106 Mani       79   66   58   83   95   381    76.20    A     7.62
+uohyd107 Deva       48   75   56   90   88   357    71.40    B+    7.14
+uohyd108 Honey      45   80   70   60   40   295    59.00    C     5.90
+uohyd109 yamini     43   92   57   95   62   349    69.80    B+    6.98
+uohyd110 chakri     78   57   64   82   59   340    68.00    B+    6.80
+
+CLASS STATISTICS
+Class Average Percentage : 71.48
+Highest Percentage       : 91.20
+Lowest Percentage        : 59.00
+
+Grade Distribution:
+O  : 1
+A+ : 0
+A  : 2
+B+ : 5
+B  : 1
+C  : 1
+D  : 0
+F  : 0
