@@ -1,23 +1,3 @@
-/*#include<stdio.h>
-#include<string.h>
-
-#define MARKS 100
-#define SUB 5
-
-struct Student
-{
-   int studentID;
-   char studentName;
-   float Marks[5];
-   float total;
-   float cgpa;
-   float grade;
-   float percentage;
-};
-
-int main()
-{}*/
-
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -216,3 +196,4 @@ void calculateStatistics(struct Student s[], int n, FILE *fp)
             gradeCount[0], gradeCount[1], gradeCount[2], gradeCount[3],
             gradeCount[4], gradeCount[5], gradeCount[6], gradeCount[7]);
 }
+
